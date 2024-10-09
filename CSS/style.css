@@ -1,0 +1,15 @@
+.menu{
+    width:20%;
+    height:80vh;
+    background-color:green;
+    color:white;
+}
+
+.content{
+    width:80%;
+    height:10vh;
+}
+
+.nav > a{
+    
+}
