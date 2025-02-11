@@ -9,7 +9,7 @@ export default function HomePage() {
           <Link to="/counter">Counter</Link>
         </li>
         <li>
-          <Link to="/stopwatch">Counter</Link>
+          <Link to="/stopwatch">Stopwatch</Link>
         </li>
       </ul>
     </div>
