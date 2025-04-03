@@ -1,0 +1,13 @@
+table {
+  width: 50%;
+  border-collapse: collapse; /* Merges borders */
+}
+th,
+td {
+  border: 2px solid black; /* Adds border */
+  padding: 10px;
+  text-align: center;
+}
+th {
+  background-color: lightgray; /* Optional: Header styling */
+}
